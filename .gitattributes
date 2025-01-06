@@ -1,0 +1,5 @@
+*.dart linguist-language=Dart
+*.php linguist-language=PHP
+*.js linguist-language=JavaScript
+*.py linguist-language=Python
+*.html linguist-language=HTML
